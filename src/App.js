@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './App.css';
-import heroes from "./heroes";
+//import './App.css';
+import heroes from './heroes.json';
 import MemoryCard from './components/card';
 
 class App extends Component {
@@ -13,7 +13,7 @@ class App extends Component {
 
       <div className="HeroList">
           {this.state.heroes.map(hero => (
-            <MemoryCard id={hero.id} src={hero.source} />
+            <MemoryCard key={hero.id} alt={hero.name} src={hero.source} />
           ))}
       </div>  
     );

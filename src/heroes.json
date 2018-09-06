@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "name": "Druid",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/f/fa/Malfurion_Stormrage%28621%29.png?version=f2a31acdde2ac33a0551fe110c7ec584"
+    },
+
+    {
+        "id": 2,
+        "name": "Hunter",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/a/a0/Rexxar%28484%29.png?version=02ca6b0bbd948cca12c824bda5ad28a6"
+    },
+
+    {
+        "id": 3,
+        "name": "Mage",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/3/3c/Jaina_Proudmoore%28320%29.png?version=75868a59a53f90bce829edeb66126b73"
+    },
+
+    {
+        "id": 4,
+        "name": "Paladin",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/4/4d/Uther_Lightbringer%28257%29.png?version=b45ade5ac3fdd2579160fe5d7b7c1b20"
+    },
+
+    {
+        "id": 5,
+        "name": "Priest",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/8/80/Anduin_Wrynn%28110%29.png?version=ba8ecc39b3fdd4a2ede72e046c434454"
+    },
+
+    {
+        "id": 6,
+        "name": "Rogue",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/a/a4/Valeera_Sanguinar%282%29.png?version=84a816910b223169eb14cc93c20437b2"
+    },
+
+    {
+        "id": 7,
+        "name": "Shaman",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/4/4b/Thrall%28319%29.png?version=adcee55715548b949a7d973c2fddbd95"
+    },
+
+    {
+        "id": 8,
+        "name": "Warlock",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/0/0a/Gul%27dan%28618%29.png?version=90f421585c6f2d493ba94e259a76190e"
+    },
+
+    {
+        "id": 9,
+        "name": "Warrior",
+        "source": "https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/c/c5/Garrosh_Hellscream%28635%29.png?version=bab934001bb784a94c59a47823d535a7"
+    }
+]
