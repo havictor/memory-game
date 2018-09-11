@@ -4,18 +4,21 @@ import heroes from './heroes.json';
 import MemoryCard from './components/card';
 
 class App extends Component {
-  state = {
-    heroes
-  }
+    state = {
+      heroes: heroes
+    }
 
   render() {
     return (
-
-      <div className="HeroList">
-          {this.state.heroes.map(hero => (
-            <MemoryCard key={hero.id} alt={hero.name} src={hero.source} />
-          ))}
-      </div>  
+      <content className="is-ancestor">
+        <div classsName="is-parent">
+          <div className="HeroList tile">
+              {this.state.heroes.map((hero) => (
+                <MemoryCard source={hero.source} key={hero.id} name={hero.name} />
+              ))}
+          </div>
+        </div>
+      </content>
     );
   }
 }
